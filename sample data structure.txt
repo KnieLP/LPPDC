@@ -1,0 +1,101 @@
+{
+	"agents":
+	[
+		{
+			"id": "Cat",
+			"personalizedContent":
+			[
+				{
+					"id": 1,
+					"category": "Greetings",
+					"shortName": "Hi",
+					"messageText": "Hello, I am cat. Give me food and leave me be!"
+				},
+				{
+					"id": 2,
+					"category": "Open Disdain",
+					"shortName": "Default",
+					"messageText": "You're not my human! Where is mine? I demand her presence now!"
+				},
+				{
+					"id": 3,
+					"category": "Meow",
+					"shortName": "Meow",
+					"messageText": "Meow."
+				},
+				{
+					"id": 4,
+					"category": "Meow",
+					"shortName": "Meow Mix",
+					"messageText": "Meowmeowmeowmeowmeowmeow!"
+				},
+				{
+					"id": 5,
+					"category": "Homicide",
+					"shortName": "Everything",
+					"messageText": "I wish to end everything and everyone. Because I am a cat."
+				}
+			]
+		},
+		{
+			"id": "Dog",
+			"personalizedContent":
+			[
+				{
+					"id": 1,
+					"category": "Greetings",
+					"shortName": "Hi (new visit)",
+					"messageText": "Hello! Hi! Hi! Hi! You're new! Wow! It's so great to see you!"
+				},
+				{
+					"id": 2,
+					"category": "Greetings",
+					"shortName": "Hello (returning visit)",
+					"messageText": "Hello! I can't believe you're back! It's been LITERALLY forever! WOW!"
+				},
+				{
+					"id": 3,
+					"category": "wow",
+					"shortName": "much doge",
+					"messageText": "Wow. Such demo. wow."
+				},
+				{
+					"id": 4,
+					"category": "Play",
+					"shortName": "Throw It",
+					"messageText": "Throw the ball! Throw it! Now! Throw the ball!"
+				},
+				{
+					"id": 5,
+					"category": "Homicide",
+					"shortName": "Cats",
+					"messageText": "Kill all cats! Kill all cats! WOOF!"
+				}
+			]
+		},
+		{
+			"id": "McLovin",
+			"personalizedContent":
+			[
+				{
+					"id": 1,
+					"category": "Greetings",
+					"shortName": "Hi",
+					"messageText": "Hello! I'm McLovin! I'm an Irish R&B Singer!"
+				},
+				{
+					"id": 2,
+					"category": "Responses",
+					"shortName": "Old Enough",
+					"messageText": "I'm old enough to party."
+				},
+				{
+					"id": 3,
+					"category": "Question",
+					"shortName": "MySpace",
+					"messageText": "You guys on MySpace or...?"
+				}
+			]
+		}
+	]
+}
